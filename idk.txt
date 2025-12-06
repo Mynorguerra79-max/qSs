@@ -13,7 +13,7 @@ Locked In Alien;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/So
 Locked In Ninja;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/SoundEffects/locked-in-ninja-low-taper-fade-made-with-Voicemod.mp3
 Do Me A Favor Stfu;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/SoundEffects/do-me-a-favor,-shut-the-fuck-up-made-with-Voicemod.mp3
 Meme Spam;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/SoundEffects/vine-boom-spam-oh-my-god-spam-and-siren-meme-disaster-made-with-Voicemod.mp3
-YOU STUPID NI-;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/SoundEffects/PeterGriffinYOUSTUPIDNI.mp3
+YOU STUPID NI-;https://raw.githubusercontent.com/Mynorguerra79-max/qSs/refs/heads/main/ssstik.io_alexander_volkanovski__1748969279087.mp3
 La Passion;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/SoundEffects/La%20Passion.mp3
 Its Darius Day;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/SoundEffects/ItsDariusDay.mp3
 SIGMA SIGMA BOY;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/SoundEffects/sigma-boy-made-with-Voicemod.mp3
@@ -65,4 +65,5 @@ Bing Chilling;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Soun
 HE HE HE HA!;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/SoundEffects/he-he-he-ha-made-with-Voicemod.mp3
 
 HOG RIDER!;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/SoundEffects/hog-rider-made-with-Voicemod.mp3
+
 
