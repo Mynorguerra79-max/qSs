@@ -1,0 +1,57 @@
+{
+  "menu-version": "7.8.1",
+  "min-version": "7.8.1",
+  "min-console-version": "2.8.0",
+  "discord-invite": "https://discord.gg/iidk",
+  "motd": "You are using build {0}. This menu was created by iiDk (@crimsoncauldron) on Discord. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>I, iiDk, am not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.",
+  "admins": [
+    {
+      "name": "goldentrophy",
+      "user-id": "63ABF99FF52170E8"
+    },
+    {
+      "name": "Cocopancakes",
+      "user-id": "3B6C59EE8D97E16"
+    },
+    {
+      "name": "Twig",
+      "user-id": "F11FF07F6E028B08"
+    },
+    {
+      "name": "Cheemz",
+      "user-id": "DC6A35ED018AFA21"
+    },
+    {
+      "name": "Cha554",
+      "user-id": "955D9F5D9727A372"
+    },
+    {
+      "name": "sub2shibagt",
+      "user-id": "D09674CB438909E5"
+    },
+    {
+      "name": "Cheemz",
+      "user-id": "BEEFE26BBBC9520B"
+    },
+    {
+      "name": "gorillan0t",
+      "user-id": "F00FF76CFD43D96B"
+    }
+  ],
+  "super-admins": [
+    "Cocopancakes",
+    "Twig",
+    "kingofnetflix"
+  ],
+  "blacklisted-ids": [
+    "7BDADB558EAFFC3F",
+    "F952FCCF8311B94A",
+    "87B859204D1624C4"
+  ],
+  "detected-mods": [
+    "Marcus"
+  ],
+  "poll": "How are you doing today",
+  "option-a": "Good",
+  "option-b": "bad :("
+}
